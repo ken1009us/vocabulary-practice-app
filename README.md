@@ -2,7 +2,7 @@
 
 The Vocabulary Practice App is a JavaFX-based application designed to help users improve their vocabulary by providing features for entering new words and practicing them. This document provides an overview of the application, its functionality, and how to get started with it.
 
-![image](https://github.com/ken1009us/vocabulary-practice-app/blob/main/img/ui.png "demo")
+<a href="url"><img src="https://github.com/ken1009us/vocabulary-practice-app/blob/main/img/ui.png" height="350" width="350" ></a>
 
 ## Introduction
 
